@@ -13,4 +13,3 @@ for numbers in grades:
     sum_of_marks += numbers
 grade = sum_of_marks / len(grades)
 print(grade)
-
